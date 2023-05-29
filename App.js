@@ -8,6 +8,8 @@ import Splash from './screens/Splash';
 import Profile from './screens/Profile';
 
 
+//THIS IS A CHANGE
+
 const Stack = createNativeStackNavigator();
 
 const App = () => {
